@@ -1,0 +1,5 @@
+<psarc>
+	<create archive="_MOD.Jackalopalen.ShutUp.1.5.4.pak" overwrite="true">
+		<directory path="\AUDIO"/>
+	</create>
+</psarc>
